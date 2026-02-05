@@ -3,6 +3,7 @@ A Python-based application that helps users record daily expenses, categorize sp
 
 ## Technologies Used
 - Python
+- VS Code
 - Git
 
 ## Author
