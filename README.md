@@ -48,6 +48,21 @@ smart-expense-tracker/
 ├── README.md               # Project documentation
 └── .gitignore              # Git ignore rules
 
+## Installation Steps:
+
+# 1. Clone repo
+git clone https://github.com/yourusername/smart-expense-tracker.git
+cd smart-expense-tracker
+
+# 2. Create virtual environment
+python -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run app
+python main.py
 
 
   
@@ -72,5 +87,4 @@ No external libraries required.
 
 ## Author
 Kirti
-
 GitHub:  https://github.com/KirtiRachna28
