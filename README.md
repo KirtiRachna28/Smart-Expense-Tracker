@@ -37,20 +37,6 @@ It is built using basic Python concepts like:
 
 No external libraries required.
 
-## Project Structure
-
-smart-expense-tracker/
-│
-├── data/
-│   └── expenses.csv
-│
-├── tracker/
-│   ├── expense.py      # Expense model
-│   ├── storage.py      # CSV handling logic
-│
-├── main.py             # Application entry point
-├── README.md
-└── .gitignore
 
 ## What I Learned From This Project
 
