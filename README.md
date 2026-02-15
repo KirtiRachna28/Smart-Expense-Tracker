@@ -51,7 +51,7 @@ No external libraries required.
 - Writing a clear and professional README
 
 ## Author
-Kirti
+Kirti Rachna
 
 GitHub:  https://github.com/KirtiRachna28
        
