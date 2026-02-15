@@ -1,0 +1,39 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variable files (often used for secrets)
+*.env
+
+# VS Code settings & workspace files
+.vscode/
+*.code-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database files (like SQLite) if used
+*.sqlite3
+*.db
+
+# Python build / packaging folders
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
