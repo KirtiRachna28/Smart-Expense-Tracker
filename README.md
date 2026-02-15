@@ -1,16 +1,19 @@
-# Smart Expense Tracker
+## Smart Expense Tracker
 
-A Python-based smart CLI application that helps users record daily expenses, categorize spending, track budgets, and analyze monthly expense patterns.
-This project helps users record their spending and understand where their money goes.
+A simple command-line Python based application to record and manage daily expenses. This project helps users record their spending and understand where their money goes.
 
-# Project Description
+This project was built to practice Python fundamentals such as file handling, modular programming, and basic data processing.
 
-Smart Expense Tracker is a beginner-friendly Python project that allows users to:
 
- - Add daily expenses
- - Store expenses in a CSV file
- - View all recorded expenses
- - See total spending per month
+## About the Project
+
+Managing daily expenses can be difficult without proper tracking. This Smart Expense Tracker allows users to:
+
+- Record expenses with amount, category, and notes
+- Store data in a CSV file
+- View saved expenses
+- Understand total spending
+  The goal of this project is to build a clean and structured Python application while learning software organization and Git usage.
 
 It is built using basic Python concepts like:
 
@@ -22,15 +25,44 @@ It is built using basic Python concepts like:
 ## Features
 - Add a new expense
 - View all expenses
-- Save data in CSV format
-- Calculate monthly total spending
-
-## Technologies Used
-- Python 3
+- Store data in CSV format
+- Simple menu-based CLI interface
+- Modular code structure
+  
+## Tech Stack(Built With)
+- Python 3.x
 - CSV module
 - Dataclasses
-- Git (for version control)
+- Git & GitHub (for version control)
 
+No external libraries required.
+
+## Project Structure
+
+smart-expense-tracker/
+│
+├── data/
+│   └── expenses.csv
+│
+├── tracker/
+│   ├── expense.py      # Expense model
+│   ├── storage.py      # CSV handling logic
+│
+├── main.py             # Application entry point
+├── README.md
+└── .gitignore
+
+## What I Learned From This Project
+
+
+- Creating reusable Python modules
+- Working with CSV files
+- Handling user input safely
+- Structuring a small application
+- Using Git commits properly
+- Writing a clear and professional README
 
 ## Author
 Kirti
+GitHub:  https://github.com/KirtiRachna28
+       
