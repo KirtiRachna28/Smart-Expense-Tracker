@@ -28,6 +28,28 @@ It is built using basic Python concepts like:
 - Store data in CSV format
 - Simple menu-based CLI interface
 - Modular code structure
+
+
+## Folder/project structure
+
+smart-expense-tracker/
+│
+├── data/
+│   └── expenses.csv        # CSV file storing expense data
+│
+├── tracker/
+│   ├── __init__.py         # Makes tracker a Python package
+│   ├── analytics.py        # Functions for analyzing expenses
+│   ├── utils.py            # Helper functions
+│   ├── expense.py          # Expense model
+│   └── storage.py          # CSV handling logic
+│
+├── main.py                 # Application entry point
+├── README.md               # Project documentation
+└── .gitignore              # Git ignore rules
+
+
+
   
 ## Tech Stack(Built With)
 - Python 3.x
@@ -50,6 +72,4 @@ No external libraries required.
 
 ## Author
 Kirti
-
 GitHub:  https://github.com/KirtiRachna28
-
