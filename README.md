@@ -13,7 +13,6 @@ Managing daily expenses can be difficult without proper tracking. This Smart Exp
 - Store data in a CSV file
 - View saved expenses
 - Understand total spending
-  The goal of this project is to build a clean and structured Python application while learning software organization and Git usage.
 
 It is built using basic Python concepts like:
 
@@ -21,6 +20,9 @@ It is built using basic Python concepts like:
  - Functions
  - File handling
  - Loops and conditionals
+
+  
+  The goal of this project is to build a clean and structured Python application while learning software organization and Git usage.
 
 ## Features
 - Add a new expense
