@@ -51,7 +51,7 @@ smart-expense-tracker/
 ## Installation Steps:
 
 # 1. Clone repo
-git clone https://github.com/yourusername/smart-expense-tracker.git
+git clone https://github.com/KirtiRachna28/Smart-Expense-Tracker.git
 cd smart-expense-tracker
 
 # 2. Create virtual environment
